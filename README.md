@@ -1,5 +1,7 @@
 # YouTubeAdSkipper
 
+![YouTubeAdSkipper](https://github.com/impeccable-tester/YouTubeAdSkipper/blob/master/icon.ico)
+
 Extract the zip and the run ChromeYouTubeAdSkipper app.
 
 Tested on Chrome 83 on mac/win/linux
